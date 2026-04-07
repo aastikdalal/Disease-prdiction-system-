@@ -1,6 +1,6 @@
 Welcome to your Lovable project
 Project info
-URL: https://lovable.dev/projects/d8161eff-5fa5-4c57-b0b5-77790a737fe8
+URL: [https://lovable.dev/projects/d8161eff-5fa5-4c57-b0b5-77790a737fe8](https://diseasepredictionn.lovable.app)
 
 How can I edit this code?
 There are several ways of editing your application.
